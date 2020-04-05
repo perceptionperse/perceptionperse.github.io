@@ -8,4 +8,3 @@ The content is an intellectual property and is only a Shared-Alike. <br>
 The contents can be stated under the reference of Perception per se. <br>
 In case of any queries please report @ <a href="mailto:youbetterdontwannaknow@gmail.com?Subject=Bonsoir" target="_top">E-Mail</a> 
  
-

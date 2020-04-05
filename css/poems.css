@@ -1,0 +1,48 @@
+body{
+	font-family: 'Playfair Display', serif;
+}  
+strong{
+	font-family: 'Poppins', sans-serif;
+	margin-left: 5px;
+}
+.container{
+	overflow: auto;
+}
+h1.animated{
+	font-family: 'Lobster', cursive;
+	color: rgba(0, 0, 0, 0.9);	
+}
+.btn {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+p, em{
+	margin-left: 5px;
+}
+h6{
+	font-family: 'Lobster', cursive;
+}
+.layout {
+	color: black;
+	margin: 15px auto;
+	width: 1200px;
+}
+.contents {
+	float: left;
+	width: 860px;
+}
+td {
+	padding: 5px 0;
+}
+
+h1.animate{
+	font-family: 'Lobster', cursive;
+	color: #db3236;	
+}
